@@ -262,3 +262,11 @@ These commands verify:
 
 ### End devices receiving OSPF updates
 - Ensure passive-interface is configured on access-facing interfaces
+
+---
+
+## Open the Documentation
+1. Navigate to the docs/ directory
+2. Open the report corresponding to your preferred language:
+    - English: `OSPF_Routing.pdf`
+    - Greek: `OSPF_Δρομολόγηση.pdf`
