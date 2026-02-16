@@ -29,7 +29,16 @@
 </p>
 
 <p align="center">
-  Supervisor: Rania Garofalaki, Laboratory Teaching Staff<br>
+  Supervisor: Adonis Bogris, Professor<br>
+</p>
+
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/adonis-bogris/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/adonis-bogris-baa6803a/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Co-supervisor: Rania Garofalaki, Laboratory Teaching Staff<br>
 </p>
 
 <p align="center">
